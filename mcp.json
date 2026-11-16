@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-quant-lob",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_quant_lob",
+      "description": "Execute quant-lob MCP tool"
+    }
+  ]
+}
